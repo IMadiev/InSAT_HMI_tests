@@ -1,4 +1,4 @@
-# Репозиторий для разработки и использования автотестов HMI MasterSCADA4D
+# Репозиторий для разработки и использования автотестов HMI MasterSCADA4D (публичная копия)
 
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/b/bb/Logo_InSAT.jpg)](https://insat.ru/)
 
