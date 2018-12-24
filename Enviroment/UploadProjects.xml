@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Projects Server="127.0.0.1" Password="7319" MinPeriod="200">
+  <Project Name="CreateUser" Address="1"/>
+  <Project Name="Events" Address="2"/>
+  <Project Name="AccessRights" Address="3"/>
+  <Project Name="Windows" Address="4"/>
+
+
+  <Project Name="Common consumption" Address="7"/>
+  <Project Name="Demo-dashboard" Address="8"/>
+  <Project Name="Diesel generator" Address="9"/>
+  <Project Name="Digital substation" Address="10"/>
+  <Project Name="District heating substation" Address="11"/>
+  <Project Name="Dynamization" Address="12"/>
+  <Project Name="Heat" Address="13"/>
+  <Project Name="Heat boiler station" Address="14"/>
+
+  <Project Name="Ping-pong" Address="16"/>
+  <Project Name="Power transmission substaion" Address="17"/>
+  <Project Name="Pumping station" Address="18"/>
+  <Project Name="Quick start. Lesson 1" Address="19"/>
+  <Project Name="Quick start. Lesson 2" Address="20"/>
+  <Project Name="Quick start. Lesson 3" Address="21"/>
+  <Project Name="Smart house" Address="22"/>
+  <Project Name="Ventilation" Address="23"/>
+  <Project Name="Washing machine" Address="24"/>
+  <Project Name="Wastewater pumping station" Address="25"/>
+  <Project Name="Water assessment" Address="26"/>
+  <Project Name="Water pumping station" Address="27"/>
+  <Project Name="SVG" Address="28"/>
+  <Project Name="Journal_ScalesAI" Address="29"/>
+  <Project Name="Formats_Convertations" Address="30"/>
+</Projects>

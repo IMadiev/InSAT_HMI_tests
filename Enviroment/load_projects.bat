@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\InSAT\MasterSCADA 4D Beta\bin\CallNetObject.exe" /assembly:"C:\Program Files (x86)\InSAT\MasterSCADA 4D Beta\bin\InSAT.Framework.Tests.dll" /method:UploadProjects  /class:InSAT.Framework.Tests.Scripts.UploadProjectsScript /args:"%~dp0\MS4Projects,UploadProjects.xml"

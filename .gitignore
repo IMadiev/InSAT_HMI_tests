@@ -1,0 +1,8 @@
+*.gif
+*.png
+*.iml
+AutotestsCode/target
+AutotestsCode/allure-results
+AutotestsCode/Screenshots
+AutotestsCode/.idea
+AutotestsCode/autotestHMI.iml
